@@ -40,6 +40,12 @@ Steps:
 2. In the search field type the string from the preconditions and press Enter or click the search icon
 3. In the bar under the search field click Tools button and from drop-drown list select option: last 24 hours
 
-
+Test Case #2.2:
+Type: positive
+Description: Search string of characters on on google.com - results from last month
+Steps:  
+1. Open google.com in web browser
+2. In the search field type the string from the preconditions and press Enter or click the search icon
+3. In the bar under the search field click Tools button and from drop-drown list select option: last month
 
 
