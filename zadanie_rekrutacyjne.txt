@@ -32,6 +32,14 @@ Description: Search string of characters on google.com with filtreing by date
 Type: Funcional tests
 Preconditions: Installed web browser, string of characters: "prowly"
 
+Test Case #2.1:
+Type: positive
+Description: Search string of characters on on google.com - results from last 24h
+Steps:  
+1. Open google.com in web browser
+2. In the search field type the string from the preconditions and press Enter or click the search icon
+3. In the bar under the search field click Tools button and from drop-drown list select option: last 24 hours
+
 
 
 
