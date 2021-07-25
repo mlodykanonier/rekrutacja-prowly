@@ -27,3 +27,11 @@ Steps:
 3. In the bar under the search field change the category to maps
 
 
+Test Scenario #2:
+Description: Search string of characters on google.com with filtreing by date
+Type: Funcional tests
+Preconditions: Installed web browser, string of characters: "prowly"
+
+
+
+
