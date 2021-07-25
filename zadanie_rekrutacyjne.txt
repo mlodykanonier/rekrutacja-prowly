@@ -2,3 +2,10 @@ Test Scenario #1:
 Description: Search string of characters on google.com with filtreing by content type
 Type: Funcional tests
 Preconditions: Installed web browser, string of characters: "prowly"
+
+Test Case #1.1:
+Type: positive
+Description: Searching string of characters on google.com in default category (All)
+Steps:
+1. Open google.com in web browser
+2. In seach field type the string from preconditions and press Enter or click the search icon
