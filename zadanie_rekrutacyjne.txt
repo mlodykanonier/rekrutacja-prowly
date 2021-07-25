@@ -48,4 +48,11 @@ Steps:
 2. In the search field type the string from the preconditions and press Enter or click the search icon
 3. In the bar under the search field click Tools button and from drop-drown list select option: last month
 
-
+Test Case #2.3:
+Type: positive
+Description: Search string of characters on on google.com - results from 2015 year
+Steps:  
+1. Open google.com in web browser
+2. In the search field type the string from the preconditions and press Enter or click the search icon
+3. In the bar under the search field click Tools button and from drop-drown list select option: custom range
+4. In field From type: 01/01/2015 and in field To type: 12/31/2015
