@@ -9,3 +9,11 @@ Description: Searching string of characters on google.com in default category (A
 Steps:
 1. Open google.com in web browser
 2. In seach field type the string from preconditions and press Enter or click the search icon
+
+Test Case #1.2:
+Type: positive
+Description: Searching string of characters on google.com in images category 
+Steps:
+1. Open google.com in web browser
+2. In seach field type the string from preconditions and press Enter or click the search icon
+3. In the bar under the search field change the category to images
