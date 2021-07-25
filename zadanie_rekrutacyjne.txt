@@ -17,3 +17,13 @@ Steps:
 1. Open google.com in web browser
 2. In seach field type the string from preconditions and press Enter or click the search icon
 3. In the bar under the search field change the category to images
+
+Test Case #1.3:
+Type: positive
+Description: Searching string of characters on google.com in maps category 
+Steps:
+1. Open google.com in web browser
+2. In seach field type the string from preconditions and press Enter or click the search icon
+3. In the bar under the search field change the category to maps
+
+
